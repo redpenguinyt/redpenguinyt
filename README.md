@@ -4,4 +4,4 @@ I like making things occasionally. my two favourite languages are Rust for its m
 You can find a comprehensive list of my projects [here](https://redpengu.in/)  
 If you want to rant about nerd stuff you can reach me on Discord at `ren.penguin`
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redpenguinyt&layout=donut-vertical&theme=github_dark&langs_count=10&hide=Vim%20script,Emacs%20Lisp,CMake,Makefile,Yacc,Lex,Dockerfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redpenguinyt&layout=donut-vertical&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
