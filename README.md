@@ -1,5 +1,5 @@
 ### hi!
-I like making things occasionally. my two favourite languages are Rust for its memory safety and C for its barebones low-level feel. I run Arch linux with HyprlandWM on my main system. I'm currently making [Spaceshipment](https://redpenguin777.itch.io/spaceshipment), an orbit-physics-based game for the [Playdate handheld console](https://play.date/)
+I like making things occasionally. I'm currently making [Spaceshipment](https://redpenguin777.itch.io/spaceshipment), an orbit-physics-based game for the [Playdate handheld console](https://play.date/)
 
 You can find a comprehensive list of my projects [here](https://redpengu.in/)  
 If you want to rant about nerd stuff you can reach me on Discord at `ren.penguin`
